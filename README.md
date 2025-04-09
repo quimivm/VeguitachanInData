@@ -1,14 +1,14 @@
 # VeguitachanInData
 
----
+🌟 ¡Bienvenido! 
 
-# 🌟 ¡Bienvenido! 
+<img src"./NotionIcon">
 
 ✨ Mi perfil de Github está dedicado a compartir mis proyectos de programación. En los próximos meses estaré actualizando mis repositorios para reflejar mis avances y que mis habilidades hablen por sí mismas. Más información en el README de cada proyecto. 
 
 ---
 
-# ✏️ Herramientas
+✏️ Herramientas
 * HTML5
 * CSS3
 * Bootstrap
@@ -26,12 +26,12 @@
 
 ---
 
-# 📍 Sobre Mí
+📍 Sobre Mí
 * Ubicación: CDMX, México
 * Linkedin: <a href="https://www.linkedin.com/in/quimivm/?locale=en_US">Click aquí 
 * Correo: jessicavegafq@gmail.com
 
-# 🔎 Otras habilidades: 
+ 🔎 Otras habilidades: 
 * Project Management
 * Química
 * Farmacovigilancia
