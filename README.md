@@ -1,6 +1,4 @@
-# VeguitachanInData
-
-🌟 ¡Bienvenido! 
+# 🌟 ¡Bienvenido! 
 
 <a> <img src="./NotionIcon" style="max-width:70%; max-height:50%;"> </a>
 
