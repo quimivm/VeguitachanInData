@@ -2,7 +2,7 @@
 
 🌟 ¡Bienvenido! 
 
-<a> <img src="./NotionIcon" style="max-width:70%;"> </a>
+<a> <img src="./NotionIcon" style="max-width:70%; max-height:50%;"> </a>
 
 ✨ Mi perfil de Github está dedicado a compartir mis proyectos de programación. En los próximos meses estaré actualizando mis repositorios para reflejar mis avances y que mis habilidades hablen por sí mismas. Puedes encontrar más información en el README de cada proyecto. 
 
