@@ -2,9 +2,9 @@
 
 🌟 ¡Bienvenido! 
 
-<img src"./NotionIcon">
+<a> <img src="./NotionIcon"> </a>
 
-✨ Mi perfil de Github está dedicado a compartir mis proyectos de programación. En los próximos meses estaré actualizando mis repositorios para reflejar mis avances y que mis habilidades hablen por sí mismas. Más información en el README de cada proyecto. 
+✨ Mi perfil de Github está dedicado a compartir mis proyectos de programación. En los próximos meses estaré actualizando mis repositorios para reflejar mis avances y que mis habilidades hablen por sí mismas. Puedes encontrar más información en el README de cada proyecto. 
 
 ---
 
@@ -28,7 +28,7 @@
 
 📍 Sobre Mí
 * Ubicación: CDMX, México
-* Linkedin: <a href="https://www.linkedin.com/in/quimivm/?locale=en_US">Click aquí 
+* Linkedin: <a href="https://www.linkedin.com/in/quimivm/?locale=en_US">Haz click aquí 
 * Correo: jessicavegafq@gmail.com
 
  🔎 Otras habilidades: 
